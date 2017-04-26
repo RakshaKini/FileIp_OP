@@ -1,0 +1,11 @@
+{
+  "name": "addtion",
+  "version": "1.0.0",
+  "description": "This adds 2 numbers",
+  "main": "Addition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raksha <kiniRaksha92@gmail.com>",
+  "license": "ISC"
+}
